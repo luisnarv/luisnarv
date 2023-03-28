@@ -5,9 +5,9 @@
 
 Here are some ideas to get you started:
 
-Hola, mi nombre es Luis, y me apasiona la tecnología y el desarrollo. Si bien soy un desarrollador Junior sin experiencia profesional, estoy comprometido en aprender y mejorar mis habilidades en este campo.
+###Hola, mi nombre es Luis, y me apasiona la tecnología y el desarrollo. Si bien soy un desarrollador Junior sin experiencia profesional, estoy comprometido en aprender y mejorar mis habilidades en este campo.
 
-Mi propuesta de valor se centra en mi capacidad para adaptarme rápidamente a nuevas tecnologías y lenguajes de programación. Soy dedicado y comprometido con mi trabajo, y siempre busco mejorar y aprender más. Además, mi enfoque son aplicaciones que ayuden a las personas y que aporten valor a la sociedad.
+###Mi propuesta de valor se centra en mi capacidad para adaptarme rápidamente a nuevas tecnologías y lenguajes de programación. Soy dedicado y comprometido con mi trabajo, y siempre busco mejorar y aprender más. Además, mi enfoque son aplicaciones que ayuden a las personas y que aporten valor a la sociedad.
 
 En cuanto a mis intereses, me apasiona aprender sobre nuevas tecnologías y nuevas tendencias. También me interesa el diseño y la usabilidad de aplicaciones, y cómo esto influye en la experiencia del usuario. Fuera del trabajo, me interesa el deporte y la lectura.
 
