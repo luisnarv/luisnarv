@@ -11,7 +11,6 @@ En términos de competencias, tengo una buena base en HTML, CSS, JavaScript. Tam
 Si estás buscando un desarrollador Full Stack Junior comprometido y con una gran pasión por el desarrollo de software, estaré encantada de formar parte de tu equipo. Estoy disponible para hablar sobre cualquier oportunidad laboral o proyecto que tengas en mente. ¡No dudes en contactarme
 
 
-Javascript Typescript Nodejs React Redux Jest
 
 <!--
 **luisnarv/luisnarv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
